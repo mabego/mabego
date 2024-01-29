@@ -8,6 +8,8 @@ I'm interested in DevOps, Infrastructure as Code, Cloud platforms, and Ops / IT 
 
 * [My LinkedIn](https://www.linkedin.com/in/matthew-gonzales-5aa49013b/)
 
+------
+
 Peace and long life. 🖖
 
 <!--
