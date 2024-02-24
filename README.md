@@ -1,12 +1,13 @@
 ### Hello, I'm Matthew 👋
 
-Call me Mat or Matthew.
+Call me Matthew or Mat.
 
 I'm interested in DevOps, Infrastructure as Code, Cloud platforms, and Ops / IT Operations in general.
 
 #### Links
 
 * [My LinkedIn](https://www.linkedin.com/in/matthew-gonzales-5aa49013b/)
+* [My Blog](https://periodical.pages.dev/)
 
 ------
 
