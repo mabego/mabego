@@ -1,6 +1,6 @@
 ### Hello, I'm Matthew 👋
 
-Call me Matthew or Mat.
+Call me Matthew or Matt.
 
 I'm interested in DevOps, Infrastructure as Code, Cloud platforms, and Ops / IT Operations in general.
 
